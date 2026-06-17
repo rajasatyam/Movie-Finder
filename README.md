@@ -118,7 +118,6 @@ Preview the production build:
 npm run preview
 ```
 
-
 ## 🧠 Learning Outcomes
 
 Through this project, I gained hands-on experience with:
